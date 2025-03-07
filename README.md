@@ -1,2 +1,2 @@
-# Exercicios-C-
+# Exercicios-C#
 Exercícios - Estrutura de dados 
