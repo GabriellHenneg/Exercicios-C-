@@ -1,0 +1,14 @@
+D:\Estrutura de dados\kadane\bin\Debug\net9.0\kadane.exe
+D:\Estrutura de dados\kadane\bin\Debug\net9.0\kadane.deps.json
+D:\Estrutura de dados\kadane\bin\Debug\net9.0\kadane.runtimeconfig.json
+D:\Estrutura de dados\kadane\bin\Debug\net9.0\kadane.dll
+D:\Estrutura de dados\kadane\bin\Debug\net9.0\kadane.pdb
+D:\Estrutura de dados\kadane\obj\Debug\net9.0\kadane.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estrutura de dados\kadane\obj\Debug\net9.0\kadane.AssemblyInfoInputs.cache
+D:\Estrutura de dados\kadane\obj\Debug\net9.0\kadane.AssemblyInfo.cs
+D:\Estrutura de dados\kadane\obj\Debug\net9.0\kadane.csproj.CoreCompileInputs.cache
+D:\Estrutura de dados\kadane\obj\Debug\net9.0\kadane.dll
+D:\Estrutura de dados\kadane\obj\Debug\net9.0\refint\kadane.dll
+D:\Estrutura de dados\kadane\obj\Debug\net9.0\kadane.pdb
+D:\Estrutura de dados\kadane\obj\Debug\net9.0\kadane.genruntimeconfig.cache
+D:\Estrutura de dados\kadane\obj\Debug\net9.0\ref\kadane.dll
